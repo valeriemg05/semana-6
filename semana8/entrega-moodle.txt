@@ -1,0 +1,10 @@
+Enlace del repositorio: https://github.com/valeriemg05/semana-6.git
+
+Verificación: La carpeta 'semana8' está publicada en la rama principal del repositorio con todos los archivos solicitados:
+- preguntas-semana8.txt
+- sistema.txt
+- seguridad-plataformas.txt
+- reflexion-semana8.txt
+- seguridad/buenas-practicas.txt
+
+Nota de entorno: Para la realización de esta actividad se trabajó de forma local (computador local).
