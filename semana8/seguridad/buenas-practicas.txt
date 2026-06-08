@@ -1,0 +1,3 @@
+1. Proteger contraseñas utilizando gestores de contraseñas y doble factor de autenticación (2FA).
+2. No compartir credenciales ni claves privadas a través de canales inseguros.
+3. Mantener el software y sistema operativo actualizados para corregir vulnerabilidades.

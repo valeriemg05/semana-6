@@ -1,0 +1,5 @@
+1. No exponer datos personales ni información sensible públicamente.
+2. Proteger las credenciales de los usuarios mediante el uso de contraseñas seguras y autenticación multifactor (MFA).
+3. Usar conexiones seguras y cifradas como HTTPS y SSH con autenticación por llave pública.
+4. Registrar los accesos y eventos del sistema (auditoría de logs) para detectar comportamientos inusuales o no autorizados.
+5. Limitar y segmentar los accesos a la información y bases de datos según roles específicos (principio de menor privilegio).

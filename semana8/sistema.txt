@@ -1,0 +1,9 @@
+Comando: uname -a
+Muestra la información completa del sistema operativo y del hardware. Esto incluye el nombre del kernel (por ejemplo, Linux), el nombre de host de la red, la versión y fecha de lanzamiento del kernel, la arquitectura del hardware (por ejemplo, x86_64) y el sistema operativo.
+
+Comando: whoami
+Muestra el nombre del usuario actual que ha iniciado sesión en la terminal y que está ejecutando los comandos.
+
+¿Por qué es útil conocer esta información al administrar un servidor?
+1. uname -a permite conocer la versión exacta del kernel del sistema operativo, lo cual es fundamental para instalar paquetes de software compatibles, parches de seguridad adecuados o depurar fallos del sistema.
+2. whoami es muy útil al automatizar tareas, escribir scripts, o cuando se accede a servidores mediante SSH, ya que permite verificar si se tienen privilegios de root (superusuario) o si se está operando con una cuenta con restricciones de seguridad para evitar errores de permisos.
