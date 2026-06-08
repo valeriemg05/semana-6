@@ -1,0 +1,15 @@
+Enlace al repositorio de GitHub:
+https://github.com/valeriemg05
+
+Verificación de entrega:
+La carpeta 'semana6' está publicada en la raíz del repositorio y contiene los siguientes archivos:
+- preguntas-semana6.txt
+- server.js
+- prueba-api.txt
+- ejemplo-incidencia.txt
+- reflexion-semana6.txt
+- package.json
+- .gitignore
+
+Nota de entorno:
+Trabajé en mi computador local para estructurar y programar los archivos del servidor Express, y realicé el despliegue de los mismos a mi repositorio en GitHub.

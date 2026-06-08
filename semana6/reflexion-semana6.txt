@@ -1,0 +1,9 @@
+La recepción de información estructurada a través de plataformas tecnológicas es fundamental
+porque permite organizar y clasificar de manera automática los reportes de los ciudadanos.
+Al usar formatos estandarizados como JSON, los sistemas pueden analizar, filtrar y priorizar
+las solicitudes (por ejemplo, clasificando por tipo de incidencia o ubicación geográfica) sin
+necesidad de intervención humana manual en las primeras etapas. Esto optimiza los tiempos de
+respuesta y asegura que cada reporte sea asignado al departamento correspondiente de forma eficiente.
+Asimismo, los datos estructurados facilitan la generación de estadísticas claras y reportes
+visuales sobre el estado de la comunidad, permitiendo identificar patrones problemáticos y tomar
+decisiones informadas basadas en datos reales para mejorar la gestión pública y la participación ciudadana.
