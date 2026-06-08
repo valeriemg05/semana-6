@@ -1,0 +1,16 @@
+Al realizar una petición GET a la ruta http://localhost:3000/reportes, el servidor responde con un código de estado 200 OK y devuelve una lista (un array en formato JSON) que contiene todos los reportes que han sido registrados previamente a través de la ruta POST.
+
+Ejemplo de respuesta devuelta por el servidor tras haber registrado el primer reporte:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Explicación de lo que sucede:
+- El servidor mantiene una lista de reportes en un array llamado `reportes` en memoria (`let reportes = [];`).
+- Cuando se realiza una petición GET a `/reportes`, la ruta ejecuta el manejador que toma el array de la memoria y lo serializa a formato JSON usando `res.json(reportes)`.
+- Si el servidor se apaga o se reinicia, este array en memoria vuelve a inicializarse vacío, por lo que la petición GET devolvería un array vacío `[]` hasta que se registren nuevos datos.
