@@ -1,5 +1,5 @@
 Enlace al repositorio de GitHub:
-https://github.com/valeriemg05
+https://github.com/valeriemg05/semana-6
 
 Verificación de entrega:
 La carpeta 'semana6' está publicada en la raíz del repositorio y contiene los siguientes archivos:
